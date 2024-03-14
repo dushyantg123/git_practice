@@ -1,5 +1,1 @@
-hello!
-how are you. edited!
-howdy again from vscode!!
-text update in vscode
-now updating in cool_features branch
+clean implementation of cool_features
